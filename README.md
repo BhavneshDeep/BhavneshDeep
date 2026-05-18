@@ -56,7 +56,7 @@ My primary academic and professional focus lies in making AI models more reliabl
 ## 🤝 Let's Connect!
 
 <p align="center">
-<a href= www.linkedin.com/in/bhavneshdeep target="blank"><img src="https://img.shields.io/badge/LinkedIn-BhavneshDeep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/bhavneshdeep" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-BhavneshDeep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
