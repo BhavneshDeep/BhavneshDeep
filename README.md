@@ -4,9 +4,19 @@
 
 ### 👨‍💻 About Me
 - 🎓 Final Year Computer Science Student at **SZABIST**
-- 💡 Passionate about **Artificial Intelligence, Deep Learning, and RAG Systems**
-- 🌐 Web Developer specialized in **React, Next.js, FastAPI, and Flask**
-- 🛠️ Currently building automated solutions, managing digital infrastructures, and exploring Technopreneurship
+- 💡 Deeply passionate about **Artificial Intelligence, Deep Learning, and RAG Systems**
+- 🌐 Web Developer specialized in building robust backends and dynamic frontends with **FastAPI, Flask, React, and Next.js**
+- 🛠️ Actively engaged in building automated tech solutions, managing digital infrastructure, and exploring Technopreneurship
+
+---
+
+## 🔬 AI Research Interests & Focus
+
+My primary academic and professional focus lies in making AI models more reliable, explainable, and deployable for complex, real-world challenges. I am actively researching and exploring:
+
+- 📊 **Trustworthy & Explainable AI (XAI):** Designing deep learning models that are transparent, secure, and interpretable, ensuring their decisions can be trusted in critical applications.
+- 🔍 **Advanced RAG Systems:** Optimizing retrieval accuracy in Large Language Models (LLMs), refining contextual data processing pipelines, and mitigating hallucination risks.
+- 🤖 **Intelligent Multi-Agent Systems:** Engineering autonomous workflows and smart AI agents that seamlessly handle complex automated tasks for business and educational platforms.
 
 ---
 
