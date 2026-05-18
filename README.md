@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/img/rocket.svg" width="35" height="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFCC&width=500&height=50&lines=Dev+%7C+Learner+%7C+Maker;AI+Engineer+%7C+Researcher" alt="Typing SVG" /></a>
+# 🚀 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFCC&width=500&height=50&lines=Dev+%7C+Learner+%7C+Maker;AI+Engineer+%7C+Researcher" alt="Typing SVG" /></a>
 
 # Hi 👋, I'm Bhavnesh Deep
 
