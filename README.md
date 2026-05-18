@@ -47,4 +47,17 @@ My primary academic and professional focus lies in making AI models more reliabl
 
 ## 🔥 My GitHub Stats
 
-![Bhavnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavneshDeep&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhavneshDeep&theme=dark&hide_border=true)
+📊 **My Contribution Graph:**
+🚀 ![](https://github-readme-activity-graph.vercel.app/graph?username=BhavneshDeep&theme=github&bg_color=ffffff&hide_border=true)
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+<a href="www.linkedin.com/in/bhavneshdeep" target="blank"><img src="https://img.shields.io/badge/LinkedIn-BhavneshDeep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhavneshDeep&label=Profile%20views&color=green&style=flat-square" alt="BhavneshDeep" />
+</p>
