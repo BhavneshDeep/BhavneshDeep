@@ -47,7 +47,4 @@ My primary academic and professional focus lies in making AI models more reliabl
 
 ## 🔥 My GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BhavneshDeep&show_icons=true&theme=radical&hide_border=true" alt="Bhavnesh's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavneshDeep&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![Bhavnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavneshDeep&show_icons=true&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhavneshDeep&theme=dark&hide_border=true)
