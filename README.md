@@ -49,7 +49,7 @@ My primary academic and professional focus lies in making AI models more reliabl
 
 ![Bhavnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavneshDeep&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhavneshDeep&theme=tokyonight&hide_border=true)
+
 
 ## 🤝 Let's Connect!
 
