@@ -44,10 +44,10 @@ My primary academic and professional focus lies in making AI models more reliabl
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ---
-
 ## 🔥 My GitHub Stats
 
-![Bhavnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavneshDeep&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhavneshDeep&theme=tokyonight&hide_border=true)
 
 
 
